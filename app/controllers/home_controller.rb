@@ -8,6 +8,15 @@ class HomeController < ApplicationController
     def chi_siamo
     end
 
+    def prodotti
+    end
+
+    def servizi
+    end
+
+    def contatti
+    end
+
 
 
 end
